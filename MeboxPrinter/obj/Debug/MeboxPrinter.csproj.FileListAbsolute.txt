@@ -1,0 +1,30 @@
+c:\users\dengrong\documents\visual studio 2015\Projects\MeboxPrinter\MeboxPrinter\bin\Debug\MeboxPrinter.exe.config
+C:\Users\dengrong\Documents\Visual Studio 2015\Projects\MeboxPrinter\MeboxPrinter\bin\Debug\MeboxPrinter.exe
+C:\Users\dengrong\Documents\Visual Studio 2015\Projects\MeboxPrinter\MeboxPrinter\bin\Debug\MeboxPrinter.pdb
+C:\Users\dengrong\Documents\Visual Studio 2015\Projects\MeboxPrinter\MeboxPrinter\obj\Debug\MeboxPrinter.csprojResolveAssemblyReference.cache
+C:\Users\dengrong\Documents\Visual Studio 2015\Projects\MeboxPrinter\MeboxPrinter\obj\Debug\MeboxPrinter.Form1.resources
+C:\Users\dengrong\Documents\Visual Studio 2015\Projects\MeboxPrinter\MeboxPrinter\obj\Debug\MeboxPrinter.Properties.Resources.resources
+C:\Users\dengrong\Documents\Visual Studio 2015\Projects\MeboxPrinter\MeboxPrinter\obj\Debug\MeboxPrinter.csproj.GenerateResource.Cache
+C:\Users\dengrong\Documents\Visual Studio 2015\Projects\MeboxPrinter\MeboxPrinter\obj\Debug\MeboxPrinter.exe
+C:\Users\dengrong\Documents\Visual Studio 2015\Projects\MeboxPrinter\MeboxPrinter\obj\Debug\MeboxPrinter.pdb
+C:\Users\hutao\Desktop\VS WorkSpace\MeboxPrinter\MeboxPrinter\bin\Debug\MeboxPrinter.exe.config
+C:\Users\hutao\Desktop\VS WorkSpace\MeboxPrinter\MeboxPrinter\obj\Debug\MeboxPrinter.exe
+C:\Users\hutao\Desktop\VS WorkSpace\MeboxPrinter\MeboxPrinter\obj\Debug\MeboxPrinter.pdb
+C:\Users\hutao\Desktop\VS WorkSpace\MeboxPrinter\MeboxPrinter\bin\Debug\MeboxPrinter.exe
+C:\Users\hutao\Desktop\VS WorkSpace\MeboxPrinter\MeboxPrinter\bin\Debug\MeboxPrinter.pdb
+C:\Users\hutao\Desktop\VS WorkSpace\MeboxPrinter\MeboxPrinter\obj\Debug\MeboxPrinter.csprojResolveAssemblyReference.cache
+C:\Users\hutao\Desktop\VS WorkSpace\MeboxPrinter\MeboxPrinter\obj\Debug\MeboxPrinter.MainForm.resources
+C:\Users\hutao\Desktop\VS WorkSpace\MeboxPrinter\MeboxPrinter\obj\Debug\MeboxPrinter.Properties.Resources.resources
+C:\Users\hutao\Desktop\VS WorkSpace\MeboxPrinter\MeboxPrinter\obj\Debug\MeboxPrinter.csproj.GenerateResource.Cache
+C:\Users\hutao\Desktop\VS WorkSpace\MeboxPrinter\MeboxPrinter\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dengrong\Documents\Visual Studio 2015\Projects\MeboxPrinter\MeboxPrinter\MeboxPrinter\bin\Debug\MeboxPrinter.exe.config
+C:\Users\dengrong\Documents\Visual Studio 2015\Projects\MeboxPrinter\MeboxPrinter\MeboxPrinter\obj\Debug\MeboxPrinter.exe
+C:\Users\dengrong\Documents\Visual Studio 2015\Projects\MeboxPrinter\MeboxPrinter\MeboxPrinter\obj\Debug\MeboxPrinter.pdb
+C:\Users\dengrong\Documents\Visual Studio 2015\Projects\MeboxPrinter\MeboxPrinter\MeboxPrinter\bin\Debug\MeboxPrinter.exe
+C:\Users\dengrong\Documents\Visual Studio 2015\Projects\MeboxPrinter\MeboxPrinter\MeboxPrinter\bin\Debug\MeboxPrinter.pdb
+C:\Users\dengrong\Documents\Visual Studio 2015\Projects\MeboxPrinter\MeboxPrinter\MeboxPrinter\bin\Debug\PdfPrintingNet.dll
+C:\Users\dengrong\Documents\Visual Studio 2015\Projects\MeboxPrinter\MeboxPrinter\MeboxPrinter\obj\Debug\MeboxPrinter.MainForm.resources
+C:\Users\dengrong\Documents\Visual Studio 2015\Projects\MeboxPrinter\MeboxPrinter\MeboxPrinter\obj\Debug\MeboxPrinter.Properties.Resources.resources
+C:\Users\dengrong\Documents\Visual Studio 2015\Projects\MeboxPrinter\MeboxPrinter\MeboxPrinter\obj\Debug\MeboxPrinter.csproj.GenerateResource.Cache
+C:\Users\dengrong\Documents\Visual Studio 2015\Projects\MeboxPrinter\MeboxPrinter\MeboxPrinter\obj\Debug\MeboxPrinter.csprojResolveAssemblyReference.cache
+C:\Users\dengrong\Documents\Visual Studio 2015\Projects\MeboxPrinter\MeboxPrinter\MeboxPrinter\bin\Debug\ThoughtWorks.QRCode.dll
